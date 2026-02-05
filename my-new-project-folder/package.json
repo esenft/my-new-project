@@ -1,0 +1,12 @@
+{
+  "name": "express-spa-userlist",
+  "version": "1.0.0",
+  "description": "Node Express SPA web server for user input and list display",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
